@@ -1,0 +1,2871 @@
+[
+    {
+        "month": 1,
+        "month_fr": "janvier",
+        "month_en": "January",
+        "fruits_vegetables": [
+            {
+                "product_id": "METRO-SAISON-007",
+                "product_fr": "Bergamote",
+                "product_en": "Bergamot orange",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-044",
+                "product_fr": "Kumquat",
+                "product_en": "Kumquat",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-052",
+                "product_fr": "Pamplemousse",
+                "product_en": "Grapefruit",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-033",
+                "product_fr": "Céleri-rave",
+                "product_en": "Celeriac",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-019",
+                "product_fr": "Chou frisé",
+                "product_en": "Savoy cabbage",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-020",
+                "product_fr": "Chou kale",
+                "product_en": "Kale",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-031",
+                "product_fr": "Crosne",
+                "product_en": "Chinese artichoke (crosne)",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-035",
+                "product_fr": "Endive rouge",
+                "product_en": "Red endive",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-053",
+                "product_fr": "Panais",
+                "product_en": "Parsnip",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-084",
+                "product_fr": "Topinambour",
+                "product_en": "Jerusalem artichoke",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-086",
+                "product_fr": "Truffe noire",
+                "product_en": "Black truffle",
+                "type_fr": "Champignon"
+            }
+        ],
+        "fish_seafood": [
+            {
+                "product_id": "METRO-SAISON-089",
+                "product_fr": "Baudroie",
+                "product_en": "Monkfish (anglerfish)",
+                "scientific_name": "Lophius piscatorius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-090",
+                "product_fr": "Calmar",
+                "product_en": "Squid",
+                "scientific_name": "Loligo spp.",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-091",
+                "product_fr": "Cardine",
+                "product_en": "Megrim",
+                "scientific_name": "Lepidorhombus whiffiagonis",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-093",
+                "product_fr": "Congre",
+                "product_en": "Conger eel",
+                "scientific_name": "Conger conger",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-094",
+                "product_fr": "Dorade grise",
+                "product_en": "Black seabream",
+                "scientific_name": "Spondyliosoma cantharus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-112",
+                "product_fr": "Églefin",
+                "product_en": "Haddock",
+                "scientific_name": "Melanogrammus aeglefinus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-095",
+                "product_fr": "Grondin rouge",
+                "product_en": "Red gurnard",
+                "scientific_name": "Chelidonichthys cuculus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-098",
+                "product_fr": "Lieu noir",
+                "product_en": "Saithe (coley)",
+                "scientific_name": "Pollachius virens",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-100",
+                "product_fr": "Merlan",
+                "product_en": "Whiting",
+                "scientific_name": "Merlangius merlangus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-102",
+                "product_fr": "Plie/Carrelet",
+                "product_en": "European plaice",
+                "scientific_name": "Pleuronectes platessa",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-103",
+                "product_fr": "Raie",
+                "product_en": "Skate / ray",
+                "scientific_name": "Rajidae",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-105",
+                "product_fr": "Roussette",
+                "product_en": "Small-spotted catshark (dogfish)",
+                "scientific_name": "Scyliorhinus canicula",
+                "fishing_area": "Northeast Atlantic"
+            }
+        ],
+        "cheeses": [
+            {
+                "product_id": "METRO-SAISON-116",
+                "product_fr": "Bleu de Gex",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-117",
+                "product_fr": "Brie de Meaux",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-118",
+                "product_fr": "Brillat-Savarin",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-127",
+                "product_fr": "Comté vieux",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-128",
+                "product_fr": "Crottin de Chavignol",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-130",
+                "product_fr": "Fondue suisse",
+                "milk_type_en": null
+            },
+            {
+                "product_id": "METRO-SAISON-131",
+                "product_fr": "Fourme d'Ambert",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-136",
+                "product_fr": "Mont d'Or",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-137",
+                "product_fr": "Morbier",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-143",
+                "product_fr": "Reblochon",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-156",
+                "product_fr": "Vacherin fribourgeois",
+                "milk_type_en": "Cow"
+            }
+        ],
+        "note_fr": "La viande est disponible toute l'année chez METRO. Seul le gibier est saisonnier, avec un arrêt de commercialisation entre avril et juin.",
+        "source": "METRO France – L'Agenda des Chefs"
+    },
+    {
+        "month": 2,
+        "month_fr": "février",
+        "month_en": "February",
+        "fruits_vegetables": [
+            {
+                "product_id": "METRO-SAISON-062",
+                "product_fr": "Pomme pink lady®",
+                "product_en": "Pink Lady® apple",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-008",
+                "product_fr": "Betterave Chioggia",
+                "product_en": "Chioggia beetroot",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-013",
+                "product_fr": "Carotte violette",
+                "product_en": "Purple carrot",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-032",
+                "product_fr": "Céleri branche",
+                "product_en": "Celery",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-018",
+                "product_fr": "Chou de Bruxelles",
+                "product_en": "Brussels sprouts",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-070",
+                "product_fr": "Radis noir",
+                "product_en": "Black radish",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-074",
+                "product_fr": "Rutabaga",
+                "product_en": "Swede (rutabaga)",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-080",
+                "product_fr": "Salsifis",
+                "product_en": "Salsify",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-084",
+                "product_fr": "Topinambour",
+                "product_en": "Jerusalem artichoke",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-086",
+                "product_fr": "Truffe noire",
+                "product_en": "Black truffle",
+                "type_fr": "Champignon"
+            }
+        ],
+        "fish_seafood": [
+            {
+                "product_id": "METRO-SAISON-089",
+                "product_fr": "Baudroie",
+                "product_en": "Monkfish (anglerfish)",
+                "scientific_name": "Lophius piscatorius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-090",
+                "product_fr": "Calmar",
+                "product_en": "Squid",
+                "scientific_name": "Loligo spp.",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-091",
+                "product_fr": "Cardine",
+                "product_en": "Megrim",
+                "scientific_name": "Lepidorhombus whiffiagonis",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-092",
+                "product_fr": "Chinchard",
+                "product_en": "Horse mackerel",
+                "scientific_name": "Trachurus spp.",
+                "fishing_area": "Mediterranean Sea"
+            },
+            {
+                "product_id": "METRO-SAISON-093",
+                "product_fr": "Congre",
+                "product_en": "Conger eel",
+                "scientific_name": "Conger conger",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-094",
+                "product_fr": "Dorade grise",
+                "product_en": "Black seabream",
+                "scientific_name": "Spondyliosoma cantharus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-112",
+                "product_fr": "Églefin",
+                "product_en": "Haddock",
+                "scientific_name": "Melanogrammus aeglefinus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-095",
+                "product_fr": "Grondin rouge",
+                "product_en": "Red gurnard",
+                "scientific_name": "Chelidonichthys cuculus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-098",
+                "product_fr": "Lieu noir",
+                "product_en": "Saithe (coley)",
+                "scientific_name": "Pollachius virens",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-100",
+                "product_fr": "Merlan",
+                "product_en": "Whiting",
+                "scientific_name": "Merlangius merlangus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-102",
+                "product_fr": "Plie/Carrelet",
+                "product_en": "European plaice",
+                "scientific_name": "Pleuronectes platessa",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-103",
+                "product_fr": "Raie",
+                "product_en": "Skate / ray",
+                "scientific_name": "Rajidae",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-105",
+                "product_fr": "Roussette",
+                "product_en": "Small-spotted catshark (dogfish)",
+                "scientific_name": "Scyliorhinus canicula",
+                "fishing_area": "Northeast Atlantic"
+            }
+        ],
+        "cheeses": [
+            {
+                "product_id": "METRO-SAISON-114",
+                "product_fr": "Beaufort",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-117",
+                "product_fr": "Brie de Meaux",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-119",
+                "product_fr": "Brocciu",
+                "milk_type_en": "Sheep / goat"
+            },
+            {
+                "product_id": "METRO-SAISON-125",
+                "product_fr": "Comté",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-132",
+                "product_fr": "Gruyère suisse",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-133",
+                "product_fr": "Laguiole",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-139",
+                "product_fr": "Ossau-Iraty",
+                "milk_type_en": "Sheep"
+            },
+            {
+                "product_id": "METRO-SAISON-143",
+                "product_fr": "Reblochon",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-154",
+                "product_fr": "Tomme de Savoie",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-156",
+                "product_fr": "Vacherin fribourgeois",
+                "milk_type_en": "Cow"
+            }
+        ],
+        "note_fr": "La viande est disponible toute l'année chez METRO. Seul le gibier est saisonnier, avec un arrêt de commercialisation entre avril et juin.",
+        "source": "METRO France – L'Agenda des Chefs"
+    },
+    {
+        "month": 3,
+        "month_fr": "mars",
+        "month_en": "March",
+        "fruits_vegetables": [
+            {
+                "product_id": "METRO-SAISON-025",
+                "product_fr": "Citron",
+                "product_en": "Lemon",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-043",
+                "product_fr": "Kiwi",
+                "product_en": "Kiwi",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-045",
+                "product_fr": "Mandarine",
+                "product_en": "Mandarin",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-060",
+                "product_fr": "Pomelo",
+                "product_en": "Pomelo",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-023",
+                "product_fr": "Chou-fleur",
+                "product_en": "Cauliflower",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-034",
+                "product_fr": "Endive",
+                "product_en": "Belgian endive",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-069",
+                "product_fr": "Radis",
+                "product_en": "Radish",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-070",
+                "product_fr": "Radis noir",
+                "product_en": "Black radish",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-075",
+                "product_fr": "Salade jeunes pousses d'épinard",
+                "product_en": "Baby spinach leaves",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-084",
+                "product_fr": "Topinambour",
+                "product_en": "Jerusalem artichoke",
+                "type_fr": "Légume"
+            }
+        ],
+        "fish_seafood": [
+            {
+                "product_id": "METRO-SAISON-089",
+                "product_fr": "Baudroie",
+                "product_en": "Monkfish (anglerfish)",
+                "scientific_name": "Lophius piscatorius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-090",
+                "product_fr": "Calmar",
+                "product_en": "Squid",
+                "scientific_name": "Loligo spp.",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-091",
+                "product_fr": "Cardine",
+                "product_en": "Megrim",
+                "scientific_name": "Lepidorhombus whiffiagonis",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-092",
+                "product_fr": "Chinchard",
+                "product_en": "Horse mackerel",
+                "scientific_name": "Trachurus spp.",
+                "fishing_area": "Mediterranean Sea"
+            },
+            {
+                "product_id": "METRO-SAISON-093",
+                "product_fr": "Congre",
+                "product_en": "Conger eel",
+                "scientific_name": "Conger conger",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-094",
+                "product_fr": "Dorade grise",
+                "product_en": "Black seabream",
+                "scientific_name": "Spondyliosoma cantharus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-112",
+                "product_fr": "Églefin",
+                "product_en": "Haddock",
+                "scientific_name": "Melanogrammus aeglefinus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-095",
+                "product_fr": "Grondin rouge",
+                "product_en": "Red gurnard",
+                "scientific_name": "Chelidonichthys cuculus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-097",
+                "product_fr": "Langoustine",
+                "product_en": "Langoustine (Norway lobster)",
+                "scientific_name": "Nephrops norvegicus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-098",
+                "product_fr": "Lieu noir",
+                "product_en": "Saithe (coley)",
+                "scientific_name": "Pollachius virens",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-100",
+                "product_fr": "Merlan",
+                "product_en": "Whiting",
+                "scientific_name": "Merlangius merlangus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-101",
+                "product_fr": "Merlu",
+                "product_en": "European hake",
+                "scientific_name": "Merluccius merluccius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-102",
+                "product_fr": "Plie/Carrelet",
+                "product_en": "European plaice",
+                "scientific_name": "Pleuronectes platessa",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-103",
+                "product_fr": "Raie",
+                "product_en": "Skate / ray",
+                "scientific_name": "Rajidae",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-105",
+                "product_fr": "Roussette",
+                "product_en": "Small-spotted catshark (dogfish)",
+                "scientific_name": "Scyliorhinus canicula",
+                "fishing_area": "Northeast Atlantic"
+            }
+        ],
+        "cheeses": [
+            {
+                "product_id": "METRO-SAISON-114",
+                "product_fr": "Beaufort",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-120",
+                "product_fr": "Cabécou",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-127",
+                "product_fr": "Comté vieux",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-133",
+                "product_fr": "Laguiole",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-145",
+                "product_fr": "Roquefort",
+                "milk_type_en": "Sheep"
+            },
+            {
+                "product_id": "METRO-SAISON-147",
+                "product_fr": "Saint-Marcellin",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-151",
+                "product_fr": "Salers",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-154",
+                "product_fr": "Tomme de Savoie",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-157",
+                "product_fr": "Valençay",
+                "milk_type_en": "Goat"
+            }
+        ],
+        "note_fr": "La viande est disponible toute l'année chez METRO. Seul le gibier est saisonnier, avec un arrêt de commercialisation entre avril et juin.",
+        "source": "METRO France – L'Agenda des Chefs"
+    },
+    {
+        "month": 4,
+        "month_fr": "avril",
+        "month_en": "April",
+        "fruits_vegetables": [
+            {
+                "product_id": "METRO-SAISON-038",
+                "product_fr": "Fraise Demoiselle",
+                "product_en": "Demoiselle strawberry",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-039",
+                "product_fr": "Fraise Gariguette",
+                "product_en": "Gariguette strawberry",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-002",
+                "product_fr": "Artichaut poivrade",
+                "product_en": "Poivrade artichoke",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-004",
+                "product_fr": "Asperge verte",
+                "product_en": "Green asparagus",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-009",
+                "product_fr": "Blette",
+                "product_en": "Swiss chard",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-012",
+                "product_fr": "Carotte primeur",
+                "product_en": "New carrot",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-034",
+                "product_fr": "Endive",
+                "product_en": "Belgian endive",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-041",
+                "product_fr": "Fève",
+                "product_en": "Broad bean (fava bean)",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-048",
+                "product_fr": "Navet nouveau",
+                "product_en": "New turnip",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-055",
+                "product_fr": "Petit pois",
+                "product_en": "Garden pea",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-071",
+                "product_fr": "Radis rose botte",
+                "product_en": "Bunched pink radish",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-076",
+                "product_fr": "Salade jeunes pousses de roquette",
+                "product_en": "Baby rocket leaves",
+                "type_fr": "Légume"
+            }
+        ],
+        "fish_seafood": [
+            {
+                "product_id": "METRO-SAISON-089",
+                "product_fr": "Baudroie",
+                "product_en": "Monkfish (anglerfish)",
+                "scientific_name": "Lophius piscatorius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-091",
+                "product_fr": "Cardine",
+                "product_en": "Megrim",
+                "scientific_name": "Lepidorhombus whiffiagonis",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-092",
+                "product_fr": "Chinchard",
+                "product_en": "Horse mackerel",
+                "scientific_name": "Trachurus spp.",
+                "fishing_area": "Mediterranean Sea"
+            },
+            {
+                "product_id": "METRO-SAISON-093",
+                "product_fr": "Congre",
+                "product_en": "Conger eel",
+                "scientific_name": "Conger conger",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-112",
+                "product_fr": "Églefin",
+                "product_en": "Haddock",
+                "scientific_name": "Melanogrammus aeglefinus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-096",
+                "product_fr": "Hareng",
+                "product_en": "Atlantic herring",
+                "scientific_name": "Clupea harengus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-097",
+                "product_fr": "Langoustine",
+                "product_en": "Langoustine (Norway lobster)",
+                "scientific_name": "Nephrops norvegicus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-098",
+                "product_fr": "Lieu noir",
+                "product_en": "Saithe (coley)",
+                "scientific_name": "Pollachius virens",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-100",
+                "product_fr": "Merlan",
+                "product_en": "Whiting",
+                "scientific_name": "Merlangius merlangus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-101",
+                "product_fr": "Merlu",
+                "product_en": "European hake",
+                "scientific_name": "Merluccius merluccius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-102",
+                "product_fr": "Plie/Carrelet",
+                "product_en": "European plaice",
+                "scientific_name": "Pleuronectes platessa",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-103",
+                "product_fr": "Raie",
+                "product_en": "Skate / ray",
+                "scientific_name": "Rajidae",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-105",
+                "product_fr": "Roussette",
+                "product_en": "Small-spotted catshark (dogfish)",
+                "scientific_name": "Scyliorhinus canicula",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-106",
+                "product_fr": "Saint-Pierre",
+                "product_en": "John Dory",
+                "scientific_name": "Zeus faber",
+                "fishing_area": "Northeast Atlantic"
+            }
+        ],
+        "cheeses": [
+            {
+                "product_id": "METRO-SAISON-115",
+                "product_fr": "Bleu d'Auvergne",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-120",
+                "product_fr": "Cabécou",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-123",
+                "product_fr": "Chabichou du Poitou",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-125",
+                "product_fr": "Comté",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-133",
+                "product_fr": "Laguiole",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-147",
+                "product_fr": "Saint-Marcellin",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-149",
+                "product_fr": "Saint-Nectaire laitier",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-150",
+                "product_fr": "Sainte-Maure de Touraine",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-152",
+                "product_fr": "Selles-sur-Cher",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-155",
+                "product_fr": "Tête de Moine",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-157",
+                "product_fr": "Valençay",
+                "milk_type_en": "Goat"
+            }
+        ],
+        "note_fr": "La viande est disponible toute l'année chez METRO. Seul le gibier est saisonnier, avec un arrêt de commercialisation entre avril et juin.",
+        "source": "METRO France – L'Agenda des Chefs"
+    },
+    {
+        "month": 5,
+        "month_fr": "mai",
+        "month_en": "May",
+        "fruits_vegetables": [
+            {
+                "product_id": "METRO-SAISON-038",
+                "product_fr": "Fraise Demoiselle",
+                "product_en": "Demoiselle strawberry",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-039",
+                "product_fr": "Fraise Gariguette",
+                "product_en": "Gariguette strawberry",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-073",
+                "product_fr": "Rhubarbe",
+                "product_en": "Rhubarb",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-003",
+                "product_fr": "Artichaut violet",
+                "product_en": "Purple artichoke",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-004",
+                "product_fr": "Asperge verte",
+                "product_en": "Green asparagus",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-012",
+                "product_fr": "Carotte primeur",
+                "product_en": "New carrot",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-029",
+                "product_fr": "Courgette fleur",
+                "product_en": "Courgette flower",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-048",
+                "product_fr": "Navet nouveau",
+                "product_en": "New turnip",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-055",
+                "product_fr": "Petit pois",
+                "product_en": "Garden pea",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-079",
+                "product_fr": "Salade mélange multifeuilles",
+                "product_en": "Mixed leaf salad",
+                "type_fr": "Légume"
+            }
+        ],
+        "fish_seafood": [
+            {
+                "product_id": "METRO-SAISON-089",
+                "product_fr": "Baudroie",
+                "product_en": "Monkfish (anglerfish)",
+                "scientific_name": "Lophius piscatorius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-091",
+                "product_fr": "Cardine",
+                "product_en": "Megrim",
+                "scientific_name": "Lepidorhombus whiffiagonis",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-092",
+                "product_fr": "Chinchard",
+                "product_en": "Horse mackerel",
+                "scientific_name": "Trachurus spp.",
+                "fishing_area": "Mediterranean Sea"
+            },
+            {
+                "product_id": "METRO-SAISON-112",
+                "product_fr": "Églefin",
+                "product_en": "Haddock",
+                "scientific_name": "Melanogrammus aeglefinus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-096",
+                "product_fr": "Hareng",
+                "product_en": "Atlantic herring",
+                "scientific_name": "Clupea harengus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-097",
+                "product_fr": "Langoustine",
+                "product_en": "Langoustine (Norway lobster)",
+                "scientific_name": "Nephrops norvegicus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-098",
+                "product_fr": "Lieu noir",
+                "product_en": "Saithe (coley)",
+                "scientific_name": "Pollachius virens",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-100",
+                "product_fr": "Merlan",
+                "product_en": "Whiting",
+                "scientific_name": "Merlangius merlangus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-101",
+                "product_fr": "Merlu",
+                "product_en": "European hake",
+                "scientific_name": "Merluccius merluccius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-102",
+                "product_fr": "Plie/Carrelet",
+                "product_en": "European plaice",
+                "scientific_name": "Pleuronectes platessa",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-103",
+                "product_fr": "Raie",
+                "product_en": "Skate / ray",
+                "scientific_name": "Rajidae",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-105",
+                "product_fr": "Roussette",
+                "product_en": "Small-spotted catshark (dogfish)",
+                "scientific_name": "Scyliorhinus canicula",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-107",
+                "product_fr": "Sardine",
+                "product_en": "European pilchard (sardine)",
+                "scientific_name": "Sardina pilchardus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-106",
+                "product_fr": "Saint-Pierre",
+                "product_en": "John Dory",
+                "scientific_name": "Zeus faber",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-109",
+                "product_fr": "Tacaud",
+                "product_en": "Pouting (bib)",
+                "scientific_name": "Trisopterus luscus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-110",
+                "product_fr": "Thon blanc",
+                "product_en": "Albacore tuna (longfin)",
+                "scientific_name": "Thunnus alalunga",
+                "fishing_area": "Northeast Atlantic"
+            }
+        ],
+        "cheeses": [
+            {
+                "product_id": "METRO-SAISON-115",
+                "product_fr": "Bleu d'Auvergne",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-120",
+                "product_fr": "Cabécou",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-123",
+                "product_fr": "Chabichou du Poitou",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-125",
+                "product_fr": "Comté",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-129",
+                "product_fr": "Emmental",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-133",
+                "product_fr": "Laguiole",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-147",
+                "product_fr": "Saint-Marcellin",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-150",
+                "product_fr": "Sainte-Maure de Touraine",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-152",
+                "product_fr": "Selles-sur-Cher",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-157",
+                "product_fr": "Valençay",
+                "milk_type_en": "Goat"
+            }
+        ],
+        "note_fr": "La viande est disponible toute l'année chez METRO. Seul le gibier est saisonnier, avec un arrêt de commercialisation entre avril et juin.",
+        "source": "METRO France – L'Agenda des Chefs"
+    },
+    {
+        "month": 6,
+        "month_fr": "juin",
+        "month_en": "June",
+        "fruits_vegetables": [
+            {
+                "product_id": "METRO-SAISON-001",
+                "product_fr": "Abricot",
+                "product_en": "Apricot",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-015",
+                "product_fr": "Cerise",
+                "product_en": "Cherry",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-040",
+                "product_fr": "Framboise",
+                "product_en": "Raspberry",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-049",
+                "product_fr": "Nectarine blanche",
+                "product_en": "White nectarine",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-050",
+                "product_fr": "Nectarine jaune",
+                "product_en": "Yellow nectarine",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-066",
+                "product_fr": "Pêche blanche",
+                "product_en": "White peach",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-067",
+                "product_fr": "Pêche jaune",
+                "product_en": "Yellow peach",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-005",
+                "product_fr": "Aubergine",
+                "product_en": "Aubergine (eggplant)",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-029",
+                "product_fr": "Courgette fleur",
+                "product_en": "Courgette flower",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-041",
+                "product_fr": "Fève",
+                "product_en": "Broad bean (fava bean)",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-036",
+                "product_fr": "Fenouil",
+                "product_en": "Fennel",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-055",
+                "product_fr": "Petit pois",
+                "product_en": "Garden pea",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-078",
+                "product_fr": "Salade mélange de jeunes pousses",
+                "product_en": "Baby leaf salad mix",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-083",
+                "product_fr": "Tomate belmandia",
+                "product_en": "Belmandia tomato",
+                "type_fr": "Légume"
+            }
+        ],
+        "fish_seafood": [
+            {
+                "product_id": "METRO-SAISON-089",
+                "product_fr": "Baudroie",
+                "product_en": "Monkfish (anglerfish)",
+                "scientific_name": "Lophius piscatorius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-091",
+                "product_fr": "Cardine",
+                "product_en": "Megrim",
+                "scientific_name": "Lepidorhombus whiffiagonis",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-092",
+                "product_fr": "Chinchard",
+                "product_en": "Horse mackerel",
+                "scientific_name": "Trachurus spp.",
+                "fishing_area": "Mediterranean Sea"
+            },
+            {
+                "product_id": "METRO-SAISON-094",
+                "product_fr": "Dorade grise",
+                "product_en": "Black seabream",
+                "scientific_name": "Spondyliosoma cantharus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-112",
+                "product_fr": "Églefin",
+                "product_en": "Haddock",
+                "scientific_name": "Melanogrammus aeglefinus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-096",
+                "product_fr": "Hareng",
+                "product_en": "Atlantic herring",
+                "scientific_name": "Clupea harengus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-097",
+                "product_fr": "Langoustine",
+                "product_en": "Langoustine (Norway lobster)",
+                "scientific_name": "Nephrops norvegicus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-098",
+                "product_fr": "Lieu noir",
+                "product_en": "Saithe (coley)",
+                "scientific_name": "Pollachius virens",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-100",
+                "product_fr": "Merlan",
+                "product_en": "Whiting",
+                "scientific_name": "Merlangius merlangus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-101",
+                "product_fr": "Merlu",
+                "product_en": "European hake",
+                "scientific_name": "Merluccius merluccius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-102",
+                "product_fr": "Plie/Carrelet",
+                "product_en": "European plaice",
+                "scientific_name": "Pleuronectes platessa",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-103",
+                "product_fr": "Raie",
+                "product_en": "Skate / ray",
+                "scientific_name": "Rajidae",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-105",
+                "product_fr": "Roussette",
+                "product_en": "Small-spotted catshark (dogfish)",
+                "scientific_name": "Scyliorhinus canicula",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-107",
+                "product_fr": "Sardine",
+                "product_en": "European pilchard (sardine)",
+                "scientific_name": "Sardina pilchardus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-106",
+                "product_fr": "Saint-Pierre",
+                "product_en": "John Dory",
+                "scientific_name": "Zeus faber",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-109",
+                "product_fr": "Tacaud",
+                "product_en": "Pouting (bib)",
+                "scientific_name": "Trisopterus luscus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-110",
+                "product_fr": "Thon blanc",
+                "product_en": "Albacore tuna (longfin)",
+                "scientific_name": "Thunnus alalunga",
+                "fishing_area": "Northeast Atlantic"
+            }
+        ],
+        "cheeses": [
+            {
+                "product_id": "METRO-SAISON-115",
+                "product_fr": "Bleu d'Auvergne",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-117",
+                "product_fr": "Brie de Meaux",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-122",
+                "product_fr": "Cantal entre-deux",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-126",
+                "product_fr": "Comté jeune",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-128",
+                "product_fr": "Crottin de Chavignol",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-133",
+                "product_fr": "Laguiole",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-135",
+                "product_fr": "Maroilles",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-144",
+                "product_fr": "Rocamadour",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-151",
+                "product_fr": "Salers",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-150",
+                "product_fr": "Sainte-Maure de Touraine",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-157",
+                "product_fr": "Valençay",
+                "milk_type_en": "Goat"
+            }
+        ],
+        "note_fr": "La viande est disponible toute l'année chez METRO. Seul le gibier est saisonnier, avec un arrêt de commercialisation entre avril et juin.",
+        "source": "METRO France – L'Agenda des Chefs"
+    },
+    {
+        "month": 7,
+        "month_fr": "juillet",
+        "month_en": "July",
+        "fruits_vegetables": [
+            {
+                "product_id": "METRO-SAISON-001",
+                "product_fr": "Abricot",
+                "product_en": "Apricot",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-014",
+                "product_fr": "Cassis",
+                "product_en": "Blackcurrant",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-037",
+                "product_fr": "Figue",
+                "product_en": "Fig",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-040",
+                "product_fr": "Framboise",
+                "product_en": "Raspberry",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-046",
+                "product_fr": "Melon charentais",
+                "product_en": "Charentais melon",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-054",
+                "product_fr": "Pastèque",
+                "product_en": "Watermelon",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-006",
+                "product_fr": "Aubergine graffiti",
+                "product_en": "Graffiti aubergine",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-030",
+                "product_fr": "Courgette longue",
+                "product_en": "Long courgette (zucchini)",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-042",
+                "product_fr": "Haricot vert fin",
+                "product_en": "Fine green bean",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-077",
+                "product_fr": "Salade jeunes pousses exquis",
+                "product_en": "Exquis baby leaf salad",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-082",
+                "product_fr": "Tomate ancienne (Green Zebra)",
+                "product_en": "Heirloom tomato (Green Zebra)",
+                "type_fr": "Légume"
+            }
+        ],
+        "fish_seafood": [
+            {
+                "product_id": "METRO-SAISON-089",
+                "product_fr": "Baudroie",
+                "product_en": "Monkfish (anglerfish)",
+                "scientific_name": "Lophius piscatorius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-091",
+                "product_fr": "Cardine",
+                "product_en": "Megrim",
+                "scientific_name": "Lepidorhombus whiffiagonis",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-094",
+                "product_fr": "Dorade grise",
+                "product_en": "Black seabream",
+                "scientific_name": "Spondyliosoma cantharus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-112",
+                "product_fr": "Églefin",
+                "product_en": "Haddock",
+                "scientific_name": "Melanogrammus aeglefinus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-096",
+                "product_fr": "Hareng",
+                "product_en": "Atlantic herring",
+                "scientific_name": "Clupea harengus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-097",
+                "product_fr": "Langoustine",
+                "product_en": "Langoustine (Norway lobster)",
+                "scientific_name": "Nephrops norvegicus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-098",
+                "product_fr": "Lieu noir",
+                "product_en": "Saithe (coley)",
+                "scientific_name": "Pollachius virens",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-100",
+                "product_fr": "Merlan",
+                "product_en": "Whiting",
+                "scientific_name": "Merlangius merlangus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-101",
+                "product_fr": "Merlu",
+                "product_en": "European hake",
+                "scientific_name": "Merluccius merluccius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-102",
+                "product_fr": "Plie/Carrelet",
+                "product_en": "European plaice",
+                "scientific_name": "Pleuronectes platessa",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-103",
+                "product_fr": "Raie",
+                "product_en": "Skate / ray",
+                "scientific_name": "Rajidae",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-105",
+                "product_fr": "Roussette",
+                "product_en": "Small-spotted catshark (dogfish)",
+                "scientific_name": "Scyliorhinus canicula",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-107",
+                "product_fr": "Sardine",
+                "product_en": "European pilchard (sardine)",
+                "scientific_name": "Sardina pilchardus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-106",
+                "product_fr": "Saint-Pierre",
+                "product_en": "John Dory",
+                "scientific_name": "Zeus faber",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-109",
+                "product_fr": "Tacaud",
+                "product_en": "Pouting (bib)",
+                "scientific_name": "Trisopterus luscus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-110",
+                "product_fr": "Thon blanc",
+                "product_en": "Albacore tuna (longfin)",
+                "scientific_name": "Thunnus alalunga",
+                "fishing_area": "Northeast Atlantic"
+            }
+        ],
+        "cheeses": [
+            {
+                "product_id": "METRO-SAISON-115",
+                "product_fr": "Bleu d'Auvergne",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-124",
+                "product_fr": "Chaource",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-125",
+                "product_fr": "Comté",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-128",
+                "product_fr": "Crottin de Chavignol",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-133",
+                "product_fr": "Laguiole",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-140",
+                "product_fr": "Ossau-Iraty jeune",
+                "milk_type_en": "Sheep"
+            },
+            {
+                "product_id": "METRO-SAISON-146",
+                "product_fr": "Saint-Félicien",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-147",
+                "product_fr": "Saint-Marcellin",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-151",
+                "product_fr": "Salers",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-157",
+                "product_fr": "Valençay",
+                "milk_type_en": "Goat"
+            }
+        ],
+        "note_fr": "La viande est disponible toute l'année chez METRO. Seul le gibier est saisonnier, avec un arrêt de commercialisation entre avril et juin.",
+        "source": "METRO France – L'Agenda des Chefs"
+    },
+    {
+        "month": 8,
+        "month_fr": "août",
+        "month_en": "August",
+        "fruits_vegetables": [
+            {
+                "product_id": "METRO-SAISON-014",
+                "product_fr": "Cassis",
+                "product_en": "Blackcurrant",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-037",
+                "product_fr": "Figue",
+                "product_en": "Fig",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-040",
+                "product_fr": "Framboise",
+                "product_en": "Raspberry",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-046",
+                "product_fr": "Melon charentais",
+                "product_en": "Charentais melon",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-047",
+                "product_fr": "Mirabelle",
+                "product_en": "Mirabelle plum",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-068",
+                "product_fr": "Pêche sanguine",
+                "product_en": "Blood peach",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-006",
+                "product_fr": "Aubergine graffiti",
+                "product_en": "Graffiti aubergine",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-042",
+                "product_fr": "Haricot vert fin",
+                "product_en": "Fine green bean",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-059",
+                "product_fr": "Poivron sweet palermo",
+                "product_en": "Sweet Palermo pepper",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-081",
+                "product_fr": "Tomate ancienne",
+                "product_en": "Heirloom tomato",
+                "type_fr": "Légume"
+            }
+        ],
+        "fish_seafood": [
+            {
+                "product_id": "METRO-SAISON-087",
+                "product_fr": "Anchois",
+                "product_en": "Anchovy",
+                "scientific_name": "Engraulis encrasicolus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-089",
+                "product_fr": "Baudroie",
+                "product_en": "Monkfish (anglerfish)",
+                "scientific_name": "Lophius piscatorius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-090",
+                "product_fr": "Calmar",
+                "product_en": "Squid",
+                "scientific_name": "Loligo spp.",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-091",
+                "product_fr": "Cardine",
+                "product_en": "Megrim",
+                "scientific_name": "Lepidorhombus whiffiagonis",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-094",
+                "product_fr": "Dorade grise",
+                "product_en": "Black seabream",
+                "scientific_name": "Spondyliosoma cantharus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-112",
+                "product_fr": "Églefin",
+                "product_en": "Haddock",
+                "scientific_name": "Melanogrammus aeglefinus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-096",
+                "product_fr": "Hareng",
+                "product_en": "Atlantic herring",
+                "scientific_name": "Clupea harengus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-097",
+                "product_fr": "Langoustine",
+                "product_en": "Langoustine (Norway lobster)",
+                "scientific_name": "Nephrops norvegicus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-098",
+                "product_fr": "Lieu noir",
+                "product_en": "Saithe (coley)",
+                "scientific_name": "Pollachius virens",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-100",
+                "product_fr": "Merlan",
+                "product_en": "Whiting",
+                "scientific_name": "Merlangius merlangus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-102",
+                "product_fr": "Plie/Carrelet",
+                "product_en": "European plaice",
+                "scientific_name": "Pleuronectes platessa",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-103",
+                "product_fr": "Raie",
+                "product_en": "Skate / ray",
+                "scientific_name": "Rajidae",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-105",
+                "product_fr": "Roussette",
+                "product_en": "Small-spotted catshark (dogfish)",
+                "scientific_name": "Scyliorhinus canicula",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-107",
+                "product_fr": "Sardine",
+                "product_en": "European pilchard (sardine)",
+                "scientific_name": "Sardina pilchardus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-109",
+                "product_fr": "Tacaud",
+                "product_en": "Pouting (bib)",
+                "scientific_name": "Trisopterus luscus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-110",
+                "product_fr": "Thon blanc",
+                "product_en": "Albacore tuna (longfin)",
+                "scientific_name": "Thunnus alalunga",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-111",
+                "product_fr": "Thon rouge",
+                "product_en": "Atlantic bluefin tuna",
+                "scientific_name": "Thunnus thynnus",
+                "fishing_area": "Northeast Atlantic"
+            }
+        ],
+        "cheeses": [
+            {
+                "product_id": "METRO-SAISON-115",
+                "product_fr": "Bleu d'Auvergne",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-122",
+                "product_fr": "Cantal entre-deux",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-126",
+                "product_fr": "Comté jeune",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-128",
+                "product_fr": "Crottin de Chavignol",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-139",
+                "product_fr": "Ossau-Iraty",
+                "milk_type_en": "Sheep"
+            },
+            {
+                "product_id": "METRO-SAISON-141",
+                "product_fr": "Pouligny-Saint-Pierre",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-144",
+                "product_fr": "Rocamadour",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-147",
+                "product_fr": "Saint-Marcellin",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-151",
+                "product_fr": "Salers",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-157",
+                "product_fr": "Valençay",
+                "milk_type_en": "Goat"
+            }
+        ],
+        "note_fr": "La viande est disponible toute l'année chez METRO. Seul le gibier est saisonnier, avec un arrêt de commercialisation entre avril et juin.",
+        "source": "METRO France – L'Agenda des Chefs"
+    },
+    {
+        "month": 9,
+        "month_fr": "septembre",
+        "month_en": "September",
+        "fruits_vegetables": [
+            {
+                "product_id": "METRO-SAISON-061",
+                "product_fr": "Pomme gala",
+                "product_en": "Gala apple",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-057",
+                "product_fr": "Poire guyot",
+                "product_en": "Guyot pear",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-072",
+                "product_fr": "Raisin muscat",
+                "product_en": "Muscat grape",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-010",
+                "product_fr": "Brocoli",
+                "product_en": "Broccoli",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-032",
+                "product_fr": "Céleri branche",
+                "product_en": "Celery",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-017",
+                "product_fr": "Champignon girolle",
+                "product_en": "Chanterelle mushroom",
+                "type_fr": "Champignon"
+            },
+            {
+                "product_id": "METRO-SAISON-021",
+                "product_fr": "Chou romanesco",
+                "product_en": "Romanesco",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-027",
+                "product_fr": "Courge",
+                "product_en": "Squash",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-028",
+                "product_fr": "Courge butternut",
+                "product_en": "Butternut squash",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-064",
+                "product_fr": "Potimarron",
+                "product_en": "Red kuri squash",
+                "type_fr": "Légume"
+            }
+        ],
+        "fish_seafood": [
+            {
+                "product_id": "METRO-SAISON-087",
+                "product_fr": "Anchois",
+                "product_en": "Anchovy",
+                "scientific_name": "Engraulis encrasicolus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-089",
+                "product_fr": "Baudroie",
+                "product_en": "Monkfish (anglerfish)",
+                "scientific_name": "Lophius piscatorius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-090",
+                "product_fr": "Calmar",
+                "product_en": "Squid",
+                "scientific_name": "Loligo spp.",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-091",
+                "product_fr": "Cardine",
+                "product_en": "Megrim",
+                "scientific_name": "Lepidorhombus whiffiagonis",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-094",
+                "product_fr": "Dorade grise",
+                "product_en": "Black seabream",
+                "scientific_name": "Spondyliosoma cantharus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-112",
+                "product_fr": "Églefin",
+                "product_en": "Haddock",
+                "scientific_name": "Melanogrammus aeglefinus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-095",
+                "product_fr": "Grondin rouge",
+                "product_en": "Red gurnard",
+                "scientific_name": "Chelidonichthys cuculus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-096",
+                "product_fr": "Hareng",
+                "product_en": "Atlantic herring",
+                "scientific_name": "Clupea harengus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-098",
+                "product_fr": "Lieu noir",
+                "product_en": "Saithe (coley)",
+                "scientific_name": "Pollachius virens",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-099",
+                "product_fr": "Limande-sole",
+                "product_en": "Lemon sole",
+                "scientific_name": "Microstomus kitt",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-100",
+                "product_fr": "Merlan",
+                "product_en": "Whiting",
+                "scientific_name": "Merlangius merlangus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-102",
+                "product_fr": "Plie/Carrelet",
+                "product_en": "European plaice",
+                "scientific_name": "Pleuronectes platessa",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-103",
+                "product_fr": "Raie",
+                "product_en": "Skate / ray",
+                "scientific_name": "Rajidae",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-104",
+                "product_fr": "Rouget-barbet",
+                "product_en": "Red mullet",
+                "scientific_name": "Mullus surmuletus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-105",
+                "product_fr": "Roussette",
+                "product_en": "Small-spotted catshark (dogfish)",
+                "scientific_name": "Scyliorhinus canicula",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-107",
+                "product_fr": "Sardine",
+                "product_en": "European pilchard (sardine)",
+                "scientific_name": "Sardina pilchardus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-108",
+                "product_fr": "Sole",
+                "product_en": "Common sole (Dover sole)",
+                "scientific_name": "Solea solea",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-109",
+                "product_fr": "Tacaud",
+                "product_en": "Pouting (bib)",
+                "scientific_name": "Trisopterus luscus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-110",
+                "product_fr": "Thon blanc",
+                "product_en": "Albacore tuna (longfin)",
+                "scientific_name": "Thunnus alalunga",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-111",
+                "product_fr": "Thon rouge",
+                "product_en": "Atlantic bluefin tuna",
+                "scientific_name": "Thunnus thynnus",
+                "fishing_area": "Northeast Atlantic"
+            }
+        ],
+        "cheeses": [
+            {
+                "product_id": "METRO-SAISON-115",
+                "product_fr": "Bleu d'Auvergne",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-121",
+                "product_fr": "Cantal",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-127",
+                "product_fr": "Comté vieux",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-128",
+                "product_fr": "Crottin de Chavignol",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-131",
+                "product_fr": "Fourme d'Ambert",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-133",
+                "product_fr": "Laguiole",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-139",
+                "product_fr": "Ossau-Iraty",
+                "milk_type_en": "Sheep"
+            },
+            {
+                "product_id": "METRO-SAISON-144",
+                "product_fr": "Rocamadour",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-147",
+                "product_fr": "Saint-Marcellin",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-150",
+                "product_fr": "Sainte-Maure de Touraine",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-157",
+                "product_fr": "Valençay",
+                "milk_type_en": "Goat"
+            }
+        ],
+        "note_fr": "La viande est disponible toute l'année chez METRO. Seul le gibier est saisonnier, avec un arrêt de commercialisation entre avril et juin.",
+        "source": "METRO France – L'Agenda des Chefs"
+    },
+    {
+        "month": 10,
+        "month_fr": "octobre",
+        "month_en": "October",
+        "fruits_vegetables": [
+            {
+                "product_id": "METRO-SAISON-024",
+                "product_fr": "Châtaigne",
+                "product_en": "Chestnut",
+                "type_fr": "Fruit à coque"
+            },
+            {
+                "product_id": "METRO-SAISON-051",
+                "product_fr": "Noix",
+                "product_en": "Walnut",
+                "type_fr": "Fruit à coque"
+            },
+            {
+                "product_id": "METRO-SAISON-058",
+                "product_fr": "Poire rubisgold",
+                "product_en": "Rubisgold pear",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-063",
+                "product_fr": "Pomme reinette",
+                "product_en": "Reinette apple",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-032",
+                "product_fr": "Céleri branche",
+                "product_en": "Celery",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-017",
+                "product_fr": "Champignon girolle",
+                "product_en": "Chanterelle mushroom",
+                "type_fr": "Champignon"
+            },
+            {
+                "product_id": "METRO-SAISON-028",
+                "product_fr": "Courge butternut",
+                "product_en": "Butternut squash",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-064",
+                "product_fr": "Potimarron",
+                "product_en": "Red kuri squash",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-084",
+                "product_fr": "Topinambour",
+                "product_en": "Jerusalem artichoke",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-085",
+                "product_fr": "Truffe blanche",
+                "product_en": "White truffle",
+                "type_fr": "Champignon"
+            }
+        ],
+        "fish_seafood": [
+            {
+                "product_id": "METRO-SAISON-087",
+                "product_fr": "Anchois",
+                "product_en": "Anchovy",
+                "scientific_name": "Engraulis encrasicolus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-089",
+                "product_fr": "Baudroie",
+                "product_en": "Monkfish (anglerfish)",
+                "scientific_name": "Lophius piscatorius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-090",
+                "product_fr": "Calmar",
+                "product_en": "Squid",
+                "scientific_name": "Loligo spp.",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-091",
+                "product_fr": "Cardine",
+                "product_en": "Megrim",
+                "scientific_name": "Lepidorhombus whiffiagonis",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-093",
+                "product_fr": "Congre",
+                "product_en": "Conger eel",
+                "scientific_name": "Conger conger",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-094",
+                "product_fr": "Dorade grise",
+                "product_en": "Black seabream",
+                "scientific_name": "Spondyliosoma cantharus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-112",
+                "product_fr": "Églefin",
+                "product_en": "Haddock",
+                "scientific_name": "Melanogrammus aeglefinus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-095",
+                "product_fr": "Grondin rouge",
+                "product_en": "Red gurnard",
+                "scientific_name": "Chelidonichthys cuculus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-098",
+                "product_fr": "Lieu noir",
+                "product_en": "Saithe (coley)",
+                "scientific_name": "Pollachius virens",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-099",
+                "product_fr": "Limande-sole",
+                "product_en": "Lemon sole",
+                "scientific_name": "Microstomus kitt",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-100",
+                "product_fr": "Merlan",
+                "product_en": "Whiting",
+                "scientific_name": "Merlangius merlangus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-102",
+                "product_fr": "Plie/Carrelet",
+                "product_en": "European plaice",
+                "scientific_name": "Pleuronectes platessa",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-103",
+                "product_fr": "Raie",
+                "product_en": "Skate / ray",
+                "scientific_name": "Rajidae",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-104",
+                "product_fr": "Rouget-barbet",
+                "product_en": "Red mullet",
+                "scientific_name": "Mullus surmuletus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-105",
+                "product_fr": "Roussette",
+                "product_en": "Small-spotted catshark (dogfish)",
+                "scientific_name": "Scyliorhinus canicula",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-107",
+                "product_fr": "Sardine",
+                "product_en": "European pilchard (sardine)",
+                "scientific_name": "Sardina pilchardus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-108",
+                "product_fr": "Sole",
+                "product_en": "Common sole (Dover sole)",
+                "scientific_name": "Solea solea",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-109",
+                "product_fr": "Tacaud",
+                "product_en": "Pouting (bib)",
+                "scientific_name": "Trisopterus luscus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-111",
+                "product_fr": "Thon rouge",
+                "product_en": "Atlantic bluefin tuna",
+                "scientific_name": "Thunnus thynnus",
+                "fishing_area": "Northeast Atlantic"
+            }
+        ],
+        "cheeses": [
+            {
+                "product_id": "METRO-SAISON-115",
+                "product_fr": "Bleu d'Auvergne",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-117",
+                "product_fr": "Brie de Meaux",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-127",
+                "product_fr": "Comté vieux",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-131",
+                "product_fr": "Fourme d'Ambert",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-133",
+                "product_fr": "Laguiole",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-139",
+                "product_fr": "Ossau-Iraty",
+                "milk_type_en": "Sheep"
+            },
+            {
+                "product_id": "METRO-SAISON-144",
+                "product_fr": "Rocamadour",
+                "milk_type_en": "Goat"
+            },
+            {
+                "product_id": "METRO-SAISON-151",
+                "product_fr": "Salers",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-153",
+                "product_fr": "Tomme de brebis",
+                "milk_type_en": "Sheep"
+            },
+            {
+                "product_id": "METRO-SAISON-157",
+                "product_fr": "Valençay",
+                "milk_type_en": "Goat"
+            }
+        ],
+        "note_fr": "La viande est disponible toute l'année chez METRO. Seul le gibier est saisonnier, avec un arrêt de commercialisation entre avril et juin.",
+        "source": "METRO France – L'Agenda des Chefs"
+    },
+    {
+        "month": 11,
+        "month_fr": "novembre",
+        "month_en": "November",
+        "fruits_vegetables": [
+            {
+                "product_id": "METRO-SAISON-024",
+                "product_fr": "Châtaigne",
+                "product_en": "Chestnut",
+                "type_fr": "Fruit à coque"
+            },
+            {
+                "product_id": "METRO-SAISON-026",
+                "product_fr": "Clémentine",
+                "product_en": "Clementine",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-056",
+                "product_fr": "Poire conférence",
+                "product_en": "Conference pear",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-011",
+                "product_fr": "Cardon",
+                "product_en": "Cardoon",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-016",
+                "product_fr": "Champignon cèpe",
+                "product_en": "Porcini mushroom (cep)",
+                "type_fr": "Champignon"
+            },
+            {
+                "product_id": "METRO-SAISON-022",
+                "product_fr": "Chou rouge",
+                "product_en": "Red cabbage",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-028",
+                "product_fr": "Courge butternut",
+                "product_en": "Butternut squash",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-065",
+                "product_fr": "Potiron",
+                "product_en": "Pumpkin",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-074",
+                "product_fr": "Rutabaga",
+                "product_en": "Swede (rutabaga)",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-084",
+                "product_fr": "Topinambour",
+                "product_en": "Jerusalem artichoke",
+                "type_fr": "Légume"
+            }
+        ],
+        "fish_seafood": [
+            {
+                "product_id": "METRO-SAISON-088",
+                "product_fr": "Bar",
+                "product_en": "European seabass",
+                "scientific_name": "Dicentrarchus labrax",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-089",
+                "product_fr": "Baudroie",
+                "product_en": "Monkfish (anglerfish)",
+                "scientific_name": "Lophius piscatorius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-090",
+                "product_fr": "Calmar",
+                "product_en": "Squid",
+                "scientific_name": "Loligo spp.",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-091",
+                "product_fr": "Cardine",
+                "product_en": "Megrim",
+                "scientific_name": "Lepidorhombus whiffiagonis",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-093",
+                "product_fr": "Congre",
+                "product_en": "Conger eel",
+                "scientific_name": "Conger conger",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-094",
+                "product_fr": "Dorade grise",
+                "product_en": "Black seabream",
+                "scientific_name": "Spondyliosoma cantharus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-112",
+                "product_fr": "Églefin",
+                "product_en": "Haddock",
+                "scientific_name": "Melanogrammus aeglefinus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-095",
+                "product_fr": "Grondin rouge",
+                "product_en": "Red gurnard",
+                "scientific_name": "Chelidonichthys cuculus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-098",
+                "product_fr": "Lieu noir",
+                "product_en": "Saithe (coley)",
+                "scientific_name": "Pollachius virens",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-100",
+                "product_fr": "Merlan",
+                "product_en": "Whiting",
+                "scientific_name": "Merlangius merlangus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-102",
+                "product_fr": "Plie/Carrelet",
+                "product_en": "European plaice",
+                "scientific_name": "Pleuronectes platessa",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-103",
+                "product_fr": "Raie",
+                "product_en": "Skate / ray",
+                "scientific_name": "Rajidae",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-104",
+                "product_fr": "Rouget-barbet",
+                "product_en": "Red mullet",
+                "scientific_name": "Mullus surmuletus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-105",
+                "product_fr": "Roussette",
+                "product_en": "Small-spotted catshark (dogfish)",
+                "scientific_name": "Scyliorhinus canicula",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-108",
+                "product_fr": "Sole",
+                "product_en": "Common sole (Dover sole)",
+                "scientific_name": "Solea solea",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-109",
+                "product_fr": "Tacaud",
+                "product_en": "Pouting (bib)",
+                "scientific_name": "Trisopterus luscus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-111",
+                "product_fr": "Thon rouge",
+                "product_en": "Atlantic bluefin tuna",
+                "scientific_name": "Thunnus thynnus",
+                "fishing_area": "Northeast Atlantic"
+            }
+        ],
+        "cheeses": [
+            {
+                "product_id": "METRO-SAISON-113",
+                "product_fr": "Abondance",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-114",
+                "product_fr": "Beaufort",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-127",
+                "product_fr": "Comté vieux",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-133",
+                "product_fr": "Laguiole",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-134",
+                "product_fr": "Livarot",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-136",
+                "product_fr": "Mont d'Or",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-139",
+                "product_fr": "Ossau-Iraty",
+                "milk_type_en": "Sheep"
+            },
+            {
+                "product_id": "METRO-SAISON-147",
+                "product_fr": "Saint-Marcellin",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-151",
+                "product_fr": "Salers",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-157",
+                "product_fr": "Valençay",
+                "milk_type_en": "Goat"
+            }
+        ],
+        "note_fr": "La viande est disponible toute l'année chez METRO. Seul le gibier est saisonnier, avec un arrêt de commercialisation entre avril et juin.",
+        "source": "METRO France – L'Agenda des Chefs"
+    },
+    {
+        "month": 12,
+        "month_fr": "décembre",
+        "month_en": "December",
+        "fruits_vegetables": [
+            {
+                "product_id": "METRO-SAISON-045",
+                "product_fr": "Mandarine",
+                "product_en": "Mandarin",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-056",
+                "product_fr": "Poire conférence",
+                "product_en": "Conference pear",
+                "type_fr": "Fruit"
+            },
+            {
+                "product_id": "METRO-SAISON-011",
+                "product_fr": "Cardon",
+                "product_en": "Cardoon",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-027",
+                "product_fr": "Courge",
+                "product_en": "Squash",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-028",
+                "product_fr": "Courge butternut",
+                "product_en": "Butternut squash",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-074",
+                "product_fr": "Rutabaga",
+                "product_en": "Swede (rutabaga)",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-084",
+                "product_fr": "Topinambour",
+                "product_en": "Jerusalem artichoke",
+                "type_fr": "Légume"
+            },
+            {
+                "product_id": "METRO-SAISON-086",
+                "product_fr": "Truffe noire",
+                "product_en": "Black truffle",
+                "type_fr": "Champignon"
+            }
+        ],
+        "fish_seafood": [
+            {
+                "product_id": "METRO-SAISON-088",
+                "product_fr": "Bar",
+                "product_en": "European seabass",
+                "scientific_name": "Dicentrarchus labrax",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-089",
+                "product_fr": "Baudroie",
+                "product_en": "Monkfish (anglerfish)",
+                "scientific_name": "Lophius piscatorius",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-090",
+                "product_fr": "Calmar",
+                "product_en": "Squid",
+                "scientific_name": "Loligo spp.",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-091",
+                "product_fr": "Cardine",
+                "product_en": "Megrim",
+                "scientific_name": "Lepidorhombus whiffiagonis",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-093",
+                "product_fr": "Congre",
+                "product_en": "Conger eel",
+                "scientific_name": "Conger conger",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-094",
+                "product_fr": "Dorade grise",
+                "product_en": "Black seabream",
+                "scientific_name": "Spondyliosoma cantharus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-112",
+                "product_fr": "Églefin",
+                "product_en": "Haddock",
+                "scientific_name": "Melanogrammus aeglefinus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-095",
+                "product_fr": "Grondin rouge",
+                "product_en": "Red gurnard",
+                "scientific_name": "Chelidonichthys cuculus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-098",
+                "product_fr": "Lieu noir",
+                "product_en": "Saithe (coley)",
+                "scientific_name": "Pollachius virens",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-100",
+                "product_fr": "Merlan",
+                "product_en": "Whiting",
+                "scientific_name": "Merlangius merlangus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-102",
+                "product_fr": "Plie/Carrelet",
+                "product_en": "European plaice",
+                "scientific_name": "Pleuronectes platessa",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-103",
+                "product_fr": "Raie",
+                "product_en": "Skate / ray",
+                "scientific_name": "Rajidae",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-104",
+                "product_fr": "Rouget-barbet",
+                "product_en": "Red mullet",
+                "scientific_name": "Mullus surmuletus",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-105",
+                "product_fr": "Roussette",
+                "product_en": "Small-spotted catshark (dogfish)",
+                "scientific_name": "Scyliorhinus canicula",
+                "fishing_area": "Northeast Atlantic"
+            },
+            {
+                "product_id": "METRO-SAISON-111",
+                "product_fr": "Thon rouge",
+                "product_en": "Atlantic bluefin tuna",
+                "scientific_name": "Thunnus thynnus",
+                "fishing_area": "Northeast Atlantic"
+            }
+        ],
+        "cheeses": [
+            {
+                "product_id": "METRO-SAISON-114",
+                "product_fr": "Beaufort",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-117",
+                "product_fr": "Brie de Meaux",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-118",
+                "product_fr": "Brillat-Savarin",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-127",
+                "product_fr": "Comté vieux",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-133",
+                "product_fr": "Laguiole",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-136",
+                "product_fr": "Mont d'Or",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-138",
+                "product_fr": "Munster",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-139",
+                "product_fr": "Ossau-Iraty",
+                "milk_type_en": "Sheep"
+            },
+            {
+                "product_id": "METRO-SAISON-142",
+                "product_fr": "Raclette",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-148",
+                "product_fr": "Saint-Nectaire fermier",
+                "milk_type_en": "Cow"
+            },
+            {
+                "product_id": "METRO-SAISON-157",
+                "product_fr": "Valençay",
+                "milk_type_en": "Goat"
+            }
+        ],
+        "note_fr": "La viande est disponible toute l'année chez METRO. Seul le gibier est saisonnier, avec un arrêt de commercialisation entre avril et juin.",
+        "source": "METRO France – L'Agenda des Chefs"
+    }
+]
